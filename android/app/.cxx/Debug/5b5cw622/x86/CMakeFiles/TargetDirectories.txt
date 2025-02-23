@@ -1,0 +1,2 @@
+D:/marketplace/android/app/.cxx/Debug/5b5cw622/x86/CMakeFiles/edit_cache.dir
+D:/marketplace/android/app/.cxx/Debug/5b5cw622/x86/CMakeFiles/rebuild_cache.dir
